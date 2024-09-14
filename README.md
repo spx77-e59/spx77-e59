@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @spx77-e59
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning react
