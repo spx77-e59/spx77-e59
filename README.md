@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @spx77-e59
-- 👀 I’m interested in web development
+- 👋 Hi, I’m Sonam Phuntsho
+- 👀 I’m interested in web development and cybersecurity
 - 🌱 I’m currently learning react
